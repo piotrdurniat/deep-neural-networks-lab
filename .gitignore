@@ -3,3 +3,7 @@ temp/
 lab8.md
 lab8_files/
 root/
+logs/
+data/
+src/
+venv3.10/

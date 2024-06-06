@@ -7,3 +7,6 @@ logs/
 data/
 src/
 venv3.10/
+dawid/
+fastText/
+take2/

@@ -1,0 +1,5 @@
+fastText/
+tweeteval/
+fasttext_tweetmodel_btc_sg_20_en.bin
+fasttext_tweetmodel_btc_sg_100_en.bin
+bitcoin_tweets_2M.csv

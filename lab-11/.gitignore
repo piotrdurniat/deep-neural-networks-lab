@@ -3,3 +3,7 @@ tweeteval/
 fasttext_tweetmodel_btc_sg_20_en.bin
 fasttext_tweetmodel_btc_sg_100_en.bin
 bitcoin_tweets_2M.csv
+temp/
+twee_vectors.zip
+tweet_vectors.pt
+bitstamp.7z

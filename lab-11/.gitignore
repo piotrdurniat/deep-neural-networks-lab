@@ -6,4 +6,5 @@ bitcoin_tweets_2M.csv
 temp/
 twee_vectors.zip
 tweet_vectors.pt
+tweet_vectors-10k.pt
 bitstamp.7z

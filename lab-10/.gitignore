@@ -12,6 +12,7 @@ predictions2/
 emo_model.bin
 emo_model.vec
 fasttext_tweetmodel_btc_sg_20_en.vec
+fasttext_tweetmodel_btc_sg_100_en.vec
 test_emo.txt
 test_labels_emo.txt
 train_emo.txt

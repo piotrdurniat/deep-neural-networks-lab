@@ -8,3 +8,7 @@ twee_vectors.zip
 tweet_vectors.pt
 tweet_vectors-10k.pt
 bitstamp.7z
+
+emoji_dir/
+emotion_dir/
+tweets.txt

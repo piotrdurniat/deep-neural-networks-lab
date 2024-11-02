@@ -19,3 +19,7 @@ train_emo.txt
 train_labels_emo.txt
 val_emo.txt
 val_labels_emo.txt
+tweeteval/
+
+emotion_dir/
+emoji_dir/

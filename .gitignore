@@ -10,3 +10,7 @@ venv3.10/
 dawid/
 fastText/
 take2/
+
+emotion_model.pth
+emoji_model.pth
+emoji_model-2.pth
